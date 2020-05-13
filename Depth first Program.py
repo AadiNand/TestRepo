@@ -5,7 +5,7 @@ plt.figure(1)
 plt.ion()
 #plt.hold(False)
 
-#State=np.array([[1.0,1.0]])
+State=np.array([[1.0,1.0]])
 
 Up=np.array([0.0,1.0])
 Down=np.array([0.0,-1.0])
